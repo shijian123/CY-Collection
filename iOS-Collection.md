@@ -1,10 +1,6 @@
 
 iOS-Collection
 
-## Tips
-
-* 资源会越来越多，不方便查找，您可以使用 `command F`来进行关键字查找
-* 如果链接失效，可以直接 google 文章名称，一般都可以找到原文
 
 ## Out-Of-Memory
 
