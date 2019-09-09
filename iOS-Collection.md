@@ -445,6 +445,8 @@
 * [iOS 开发技术栈与进阶](http://blog.cnbang.net/tech/3354/) —— (bang)
 * [iOS 软件安全工程师技能表](https://github.com/feicong/sec_skills) - （fei_cong）
 
+* [iOS 开发舆图](https://www.jianshu.com/p/42817d096368)--(星光社的戴铭)
+
 ## 推荐书单
 
 操作系统
